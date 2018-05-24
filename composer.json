@@ -1,5 +1,5 @@
 {
-  "name": "laurentius24/laravel-authentication-acl",
+  "name": "jacopo/laravel-authentication-acl",
   "description": "Laravel authentication and ACL package with a cool admin panel",
   "keywords": [
     "acl",
@@ -9,10 +9,6 @@
     "profile",
     "laravel"
   ],
-  "repositories": [{
-    "type": "vcs",
-    "url": "https://github.com/laurentius24/laravel-authentication-acl.git"
-  }],
   "authors": [
     {
       "name": "jacopo",
@@ -23,8 +19,8 @@
   "license": "MIT",
   "type": "project",
   "require": {
-    "laravel/framework": "5.6.*",
-    "laravelcollective/html" : "5.6.*",
+    "laravel/framework": "5.*",
+    "laravelcollective/html" : "5.*",
     "intervention/image": "2.*",
     "jacopo/authentication-sentry": "3.0.7",
     "gregwar/captcha": "1.1.1"
