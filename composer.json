@@ -9,6 +9,10 @@
     "profile",
     "laravel"
   ],
+  "repositories": [{
+    "type": "vcs",
+    "url": "https://github.com/laurentius24/laravel-authentication-acl.git"
+  }],
   "authors": [
     {
       "name": "jacopo",
