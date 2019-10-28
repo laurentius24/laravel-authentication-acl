@@ -12,7 +12,7 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/laurentius24/sentry.git"
+      "url": "https://github.com/laurentius24/authentication-sentry.git"
     }
   ],
   "authors": [
