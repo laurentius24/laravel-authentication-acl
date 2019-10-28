@@ -28,7 +28,7 @@
     "laravel/framework": "5.*",
     "laravelcollective/html" : "5.*",
     "intervention/image": "2.*",
-    "jacopo/authentication-sentry": "master",
+    "jacopo/authentication-sentry": "dev-laravel-5",
     "gregwar/captcha": "1.1.1"
   },
   "require-dev": {
