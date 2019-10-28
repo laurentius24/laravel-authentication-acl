@@ -9,6 +9,12 @@
     "profile",
     "laravel"
   ],
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/laurentius24/sentry.git",
+    }
+  ],
   "authors": [
     {
       "name": "jacopo",
@@ -22,7 +28,7 @@
     "laravel/framework": "5.*",
     "laravelcollective/html" : "5.*",
     "intervention/image": "2.*",
-    "jacopo/authentication-sentry": "3.0.7",
+    "jacopo/authentication-sentry": "master",
     "gregwar/captcha": "1.1.1"
   },
   "require-dev": {
